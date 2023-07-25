@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Bónus",
+	"description": "The biggest Icelandic grocery store.",
+	"links": {
+		"website": [
+			"https://bonus.is/english/",
+			"https://en.wikipedia.org/wiki/B%C3%B3nus"
+		],
+		"subreddit": [
+			"Iceland"
+		]
+	},
+	"path": {
+		"209-256": [
+			[
+				-27,
+				-289
+			],
+			[
+				-27,
+				-289
+			],
+			[
+				-15,
+				-289
+			],
+			[
+				-14,
+				-279
+			],
+			[
+				-27,
+				-279
+			]
+		]
+	},
+	"center": {
+		"209-256": [
+			-20,
+			-284
+		]
+	}
+}
